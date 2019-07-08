@@ -1,0 +1,5 @@
+main()
+{
+big();
+factorial1();
+}
